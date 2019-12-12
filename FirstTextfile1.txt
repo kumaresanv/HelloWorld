@@ -1,1 +1,2 @@
 First line from command prompt
+Second line from git repo
