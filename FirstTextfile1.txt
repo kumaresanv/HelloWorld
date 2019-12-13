@@ -1,2 +1,3 @@
 First line from command prompt
-Second line from git repo
+Second line from git repo 
+Third line updated from remote repo directory
